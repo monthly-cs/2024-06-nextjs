@@ -26,5 +26,5 @@
 
 docs/sample 폴더 참고하여 개인별로 폴더 생성
 
-1. docs/<git_username\>/DIL에 YYYY-MM-DD.md 형식으로 회고 작성
-2. docs/<git_username\>/presentation에 chapter_1.pptx 형식으로 파일 업로드
+1. docs/<git_username\>/dil 에 YYYY-MM-DD.md 형식으로 회고 작성
+2. docs/<git_username\>/presentation에 week_1.~~ 형식으로 파일 업로드
