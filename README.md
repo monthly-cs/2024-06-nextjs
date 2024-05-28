@@ -20,7 +20,7 @@
 
 ## 2. Group Rules
 
-- [[마감][24년 3월] 발표 스터디 모집 / [모던 리액트 Deep Dive] 발표 스터디](https://inblog.ai/monthly-cs/16450)를 참고해주세요.
+- [[24년 6월] 발표 스터디 모집](https://inblog.ai/monthly-cs/20324)를 참고해주세요.
 
 ## 3. Folder Tree
 
