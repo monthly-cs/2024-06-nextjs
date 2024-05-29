@@ -1,6 +1,6 @@
 # Next.js 14 & React - 완벽 가이드
 
--   강의 : [모던 리액트 딥 다이브](https://www.udemy.com/course/nextjs-react-incl-two-paths)
+-   강의 : [Next.js 14 & React - 완벽 가이드](https://www.udemy.com/course/nextjs-react-incl-two-paths)
 -   기간 : 2024-06 ~ 2024-08
 
 ## 1. Contributors
