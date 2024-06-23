@@ -14,7 +14,7 @@
 
 - `/app`의 root layout이 필요합니다.
 - `<html>`와 `<body>`를 필수로 가져야 합니다.
-- header가 없는 이유는? 해당 layoutd의 metadata 객체를 사용해서 Next.js가 `<head>`를 만들기 때문입니다.
+- header가 없는 이유는? 해당 layout의 metadata 객체를 사용해서 Next.js가 `<head>`를 만들기 때문입니다.
 
 ## 레이아웃
 
