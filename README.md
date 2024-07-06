@@ -9,12 +9,9 @@
 | ------------------------------------------------ | ----------------------------- |
 | [강석우/@seokwoodang](https://github.com/Seokwoodang)    | swoo1429@gmail.com |
 | [두선아/@dusunax](https://github.com/dusunax)    | dusunax@gmail.com |
-| [김창민/@developerQuo](https://github.com/developerQuo)    | quake7289@gmail.com |
 | [정래한/@rae-han](https://github.com/rae-han)    | raehan900809@gmail.com |
 | [김지나/@zzinao](https://github.com/zzinao)    | zzzinaooo@gmail.com |
 | [전소연/@soyeon102](https://github.com/soyeon102)    | csea9000@naver.com |
-| [정광묵/@seolleung2](https://github.com/seolleung2)    | seolleung22@gmail.com |
-| [임건/@WoogLim](https://github.com/WoogLim)    | elegy74@gmail.com |
 
 ## 2. Group Rules
 
