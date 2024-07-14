@@ -51,6 +51,7 @@ const { PHASE_PRODUCTION_SERVER } = require("next/constants");
 module.exports = (phase) => {
   // constants.d.ts
   // export declare const PHASE_PRODUCTION_SERVER = "phase-production-server";
+  // export declare const PHASE_DEVELOPMENT_SERVER = "phase-development-server";
   if (phase === PHASE_PRODUCTION_SERVER) {
     return {
       env: {
